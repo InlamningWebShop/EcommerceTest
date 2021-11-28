@@ -1,3 +1,3 @@
 # EcommerceTest
 
-Sebastian Comment fick inte upp testerna idag (söndag) ska försöka få upp de på måndag när jag orkar mera
+Sebastian Comment testerna är klara. Fick ej upp de på denna nya repository. Ska tittade vidare på det imorgon.
